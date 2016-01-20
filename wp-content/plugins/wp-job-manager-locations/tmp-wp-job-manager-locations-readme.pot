@@ -1,0 +1,162 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Job Manager - Predefined Regions"
+msgstr ""
+
+#. Short description.
+msgid "Add predefined regions to WP Job Manager submission form."
+msgstr ""
+
+#. Found in description header.
+msgid "Where can I use this?"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Adds a \"Job Region\" taxonomy so the site administrator can control a set of predefined regions listings can be assigned to."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Note:</strong> Listings are not filtered by regions. They are simply used as an organization tool."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Astoundify has released two themes that are fully integrated with the WP Job Manager plugin. Check out <a href=\"http://themeforest.net/item/jobify-job-board-wordpress-theme/5247604?ref=Astoundify\">\"Jobify\"</a> and our WordPress Directory theme <a href=\"http://themeforest.net/item/listify-wordpress-directory-theme/9602611?ref=Astoundify\">\"Listify\"</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install and Activate"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to \"Job Listings &gt; Job Regions\" and add regions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Verify the region exists for alerts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: WP Job Manager - Alerts support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Reset"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: uninstall.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: RSS Feeds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Taxonomy registration priority to be used with widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Listify 1.0.6 compatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Make sure the regions dropdown can always replace the location input."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Compatibility with WP Job Manager - Alerts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Properly place the standard  dropdown for mobile devices."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add Chosen dropdown support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add WP Job Manager Alerts support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add Danish tranlsation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Use $_REQUEST to add support for 1.21.0 of WP Job Manager."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Remove extra whitespace."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add es_ES translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Make sure translations can always properly be loaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Always use the dropdown when on a region archive to help with sorting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add a class to the theme's body tag so the location field can be hidden on term archive pages when filters are off."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Add a filter to allow dropdown arguments to be modified."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: General code cleanup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Turn off region dropdown for new installs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Properly unset location input to avoid polluted query."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Regions can now be used to filter listings instead of the standard location text field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Use a custom template so the select box can have hierarchy."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Avoid priority conflict with existing fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Update wp-job-manager-locations.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Make sure the taxononmy is properly added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Don't error if the plugin is activated, but no term is added via the backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New: Simple regions list output."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First official release!"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "Fix: Outputting extra links in the job list."
+msgstr ""

@@ -1,0 +1,771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GEO Job Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-17 20:28-1000\n"
+"PO-Revision-Date: 2015-03-17 20:28-1000\n"
+"Last-Translator: Eyal Fitoussi <info@geomywp.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: geo-job-manager.php:148
+msgid "Provides GeoLocation features to WP Job Manager plugin."
+msgstr "Обеспечивает функции геолокации для плагина WP Менеджер проектов."
+
+#: geo-job-manager.php:269
+#, php-format
+msgid ""
+"requires <a %s>WP Job Manager</a> plugin version 1.21.3 or higher in order to "
+"work."
+msgstr ""
+"требуется <a %s=\"\">Работа менеджер WP</a> плагин версии 1.21.3 или выше для "
+"работы."
+
+#: includes/admin/gjm-admin-settings.php:50
+msgid "No locations to import were found."
+msgstr "Локаций для импорта не найдено."
+
+#: includes/admin/gjm-admin-settings.php:51
+msgid "No locations were imported."
+msgstr "Нет локаций для импорта."
+
+#: includes/admin/gjm-admin-settings.php:52
+#, php-format
+msgid "%d Locations successfully imported."
+msgstr "%d локации успешно импортированы."
+
+#: includes/admin/gjm-admin-settings.php:69
+msgid "Import"
+msgstr "Импорт"
+
+#: includes/admin/gjm-admin-settings.php:248
+msgid "jobs"
+msgstr "работы"
+
+#: includes/admin/gjm-admin-settings.php:248
+msgid "resumes"
+msgstr "резюме"
+
+#: includes/admin/gjm-admin-settings.php:252
+msgid "GEO General Settings"
+msgstr "Основные настройки GEO"
+
+#: includes/admin/gjm-admin-settings.php:257
+msgid "Import Locations"
+msgstr "Импорт локаций"
+
+#: includes/admin/gjm-admin-settings.php:258
+#: includes/admin/gjm-admin-settings.php:267
+#: includes/admin/gjm-admin-settings.php:276
+#: includes/admin/gjm-admin-settings.php:365
+#: includes/admin/gjm-admin-settings.php:392
+#: includes/admin/gjm-admin-settings.php:417
+#: includes/admin/gjm-admin-settings.php:455
+#: includes/admin/gjm-admin-settings.php:464
+#: includes/admin/gjm-admin-settings.php:473
+#: includes/admin/gjm-admin-settings.php:489
+#: includes/admin/gjm-admin-settings.php:527
+msgid "Yes"
+msgstr "Да"
+
+#: includes/admin/gjm-admin-settings.php:259
+#, php-format
+msgid ""
+"Import %s location to %s database. You should do if you have created %s "
+"previously the installation of %s plugin."
+msgstr ""
+"Import location %s database %s. You should do if you have created a %s in "
+"advance to install the plugin %s."
+
+#: includes/admin/gjm-admin-settings.php:266
+msgid "Google address autocomplete (admin)"
+msgstr "Автозаполнение адреса Google (под администратором)"
+
+#: includes/admin/gjm-admin-settings.php:268
+#, php-format
+msgid ""
+"Disply suggested results by Google when typing an address in the location "
+"field of the new/edit %s screen"
+msgstr ""
+"Показать результаты Goolge при вводе адреса при создании/редактировании %s"
+
+#: includes/admin/gjm-admin-settings.php:275
+msgid "Google address autocomplete (front-end) - new/edit job form"
+msgstr ""
+"Автозаполнение адреса Google в форме для пользователей при создании/"
+"редактировании вакансии"
+
+#: includes/admin/gjm-admin-settings.php:277
+#, php-format
+msgid ""
+"Disply suggested results by Google when typing an address in the location "
+"field of the new/edit %s form in the front end"
+msgstr ""
+"Показать результаты Goolge при вводе адреса при создании/редактировании %s от "
+"переднего конца"
+
+#: includes/admin/gjm-admin-settings.php:285
+msgid "Autocomplete country restriction"
+msgstr "Ограничить страну поиска"
+
+#: includes/admin/gjm-admin-settings.php:286
+msgid ""
+"Enter the country code of the country which you would like to restrict the "
+"autocomplete results to. Leave it empty to show all countries"
+msgstr ""
+"Введите код страны для ограничения результатов поиска в пределах страны. Или "
+"оставьте пустым для поиска во всех странах."
+
+#: includes/admin/gjm-admin-settings.php:301
+msgid "Google API language"
+msgstr "Язык Google API"
+
+#: includes/admin/gjm-admin-settings.php:302
+msgid ""
+"This feature controls the language of the autocomplete results and Google map. "
+"Enter the language code of the langauge you would like to use. List of "
+"avaliable langauges can be found"
+msgstr ""
+"Это поле указывает на язык автозаполнения результатов и карты Google. Введите "
+"значение кода для отображения требуемого языка. Перечень доступных языков "
+"доступен здесь"
+
+#: includes/admin/gjm-admin-settings.php:302
+msgid "here"
+msgstr "здесь"
+
+#: includes/admin/gjm-admin-settings.php:309
+msgid "Google API default region"
+msgstr "Регион по-умолчанию для Goolge API"
+
+#: includes/admin/gjm-admin-settings.php:310
+#, php-format
+msgid ""
+"This feature controls the regions of Goole API. Enter a country code; for "
+"example for United States enter US. you can find your country code <a %s>here</"
+"a>"
+msgstr ""
+"Эта функция управляет регионы Гул API. Введите код страны ; например, для "
+"Соединенных Штатов войти в нас . Вы можете найти свой код страны <a %s>вот</a>"
+
+#: includes/admin/gjm-admin-settings.php:321
+msgid "Geo Search Form Settings"
+msgstr "GEO настройки формы поиска"
+
+#: includes/admin/gjm-admin-settings.php:326
+msgid "Usage"
+msgstr "Использование"
+
+#: includes/admin/gjm-admin-settings.php:327
+#, php-format
+msgid ""
+"Using the GEO features is as simple as adding an attribute to the already "
+"exists %s shortcode. There are two ways you can use the shortcode:"
+msgstr ""
+"Добавление возможностей GEO осуществляется простым добавлением аттррибутов к "
+"уже используемым кодам %s shortcode. Два варинта использования кодов:"
+
+#: includes/admin/gjm-admin-settings.php:329
+msgid "Show more"
+msgstr "Показать еще"
+
+#: includes/admin/gjm-admin-settings.php:332
+#, php-format
+msgid ""
+"Add the attribute %s_use with the value 2 to the %s shortcode ( ex. %s ). This "
+"way the search form will use the settings on this page in order to add %s "
+"features to the %s search form."
+msgstr ""
+"Добавить атрибут %s_use со значением 2 в %s shortcode ( напр. %s ). Таким "
+"образом,форма поиска будет использовать настройки на этой странице , чтобы "
+"добавить %s Особенности в %s Форма поиска."
+
+#: includes/admin/gjm-admin-settings.php:333
+#, php-format
+msgid ""
+"Add the attribute %s_use with the value 1 to the %s shortcode ( ex. %s ). This "
+"way you can define each of your %s search forms ( when you have more than "
+"one ) with different Geolocation features. You can do so by using the other "
+"shotcode attributes that %s provides:"
+msgstr ""
+"Добавить атрибут %s_use со значением 1 в %s shortcode ( напр. %s ). Таким "
+"образом, вы можете определить каждый из ваших %s форм поиска ( если у вас есть "
+"более чем один ) с различными функциями геолокации. Вы можете сделать это, "
+"используя другую shotcode атрибуты, которые %s обеспечивает:"
+
+#: includes/admin/gjm-admin-settings.php:335
+msgid "value 1 to display map or 0 to hide map"
+msgstr "значение 1 для отображения карты или 0 , чтобы скрыть карту"
+
+#: includes/admin/gjm-admin-settings.php:336
+msgid "map width in percentage or pixels"
+msgstr "Карта ширина в процентах или пикселях"
+
+#: includes/admin/gjm-admin-settings.php:337
+msgid "map height in percentage or pixels"
+msgstr "Карта высот в процентах или пикселях"
+
+#: includes/admin/gjm-admin-settings.php:338
+msgid "values comma separated"
+msgstr "значения через запятую"
+
+#: includes/admin/gjm-admin-settings.php:339
+msgid "1 to enable Google autocomplete on the address field"
+msgstr "1 , чтобы включить Google автозаполнения на поле адреса"
+
+#: includes/admin/gjm-admin-settings.php:340
+msgid ""
+"multiple values comma separated to display as dropdown or single value to be "
+"default. ex \"5,10,25,50\""
+msgstr ""
+"несколько значений через запятую для отображения в качестве выпадающего списка "
+"или одно значение по умолчанию?. экс \"5,10,25,50\""
+
+#: includes/admin/gjm-admin-settings.php:341
+msgid "1 to display the distance in each of the results"
+msgstr "1 to show the distance of each of the results"
+
+#: includes/admin/gjm-admin-settings.php:342
+msgid "1 to scroll down to job listing when clicking on its marker on the map"
+msgstr "1 прокрутить список заданий при нажатии на его маркер на карте"
+
+#: includes/admin/gjm-admin-settings.php:343
+msgid "1 to enable locator button"
+msgstr "1 , чтобы включить кнопку локатора"
+
+#: includes/admin/gjm-admin-settings.php:344
+#: includes/admin/gjm-admin-settings.php:402
+msgid "Type the title for the locator button"
+msgstr "Введите подопись для кнопки определения текущего положения"
+
+#: includes/admin/gjm-admin-settings.php:346
+msgid "Custom shortcode example"
+msgstr "Пример использования кода"
+
+#: includes/admin/gjm-admin-settings.php:364
+msgid "Google address autocomplete"
+msgstr "Автозаполнение адреса Google"
+
+#: includes/admin/gjm-admin-settings.php:366
+#, php-format
+msgid ""
+"Disply suggested results by Google when typing an address in the location "
+"field of the %s search form"
+msgstr "Показать результаты Goolge при вводе адреса %s форма поиска"
+
+#: includes/admin/gjm-admin-settings.php:374
+msgid "Radius"
+msgstr "Радиус"
+
+#: includes/admin/gjm-admin-settings.php:375
+msgid ""
+"Enter single value to be the default or multiple values comma separated to be "
+"displaed as a dropdown"
+msgstr ""
+"Ввести значение или несколько значений разделенных запятыми для отображение в "
+"виде раскрывающегося списка"
+
+#: includes/admin/gjm-admin-settings.php:382
+msgid "Units"
+msgstr "Значения"
+
+#: includes/admin/gjm-admin-settings.php:383
+msgid ""
+"Choose a single unit value to be used as the default or choose \"Both\" to let "
+"the user choose using a dropdown select menu"
+msgstr ""
+"Укажите значение поля для импользования ао-умолчанию или или выберите \"Both\" "
+"для выбора значения в выпадающем меню"
+
+#: includes/admin/gjm-admin-settings.php:391
+msgid "Display locator button"
+msgstr "Отоброжать кнопку текущего положения"
+
+#: includes/admin/gjm-admin-settings.php:393
+msgid "Disply button that will get the user's current location."
+msgstr "Показать кнопку указывающую текущее положение пользователя"
+
+#: includes/admin/gjm-admin-settings.php:400
+#: includes/admin/gjm-admin-settings.php:401
+msgid "Locator button title"
+msgstr "Подпись кнопки текущего положения"
+
+#: includes/admin/gjm-admin-settings.php:409
+msgid "Order By"
+msgstr "Упорядочить по"
+
+#: includes/admin/gjm-admin-settings.php:410
+msgid ""
+"Enter the values you want to use in the \"Sort by\" dropdown select box. "
+"Enter, comma separated, in the order that you want the values to appear any of "
+"the values: distance, title, date and featured."
+msgstr ""
+"Укажите через запятые значения раскрывющегося списка \"Сортировка\" в порядке "
+"появления: distance, title, date и featured."
+
+#: includes/admin/gjm-admin-settings.php:416
+#: includes/admin/gjm-admin-settings.php:488
+msgid "Display map"
+msgstr "Отобразить карту"
+
+#: includes/admin/gjm-admin-settings.php:418
+msgid "Disply map with "
+msgstr "Показать карту с"
+
+#: includes/admin/gjm-admin-settings.php:426
+#: includes/admin/gjm-admin-settings.php:498
+msgid "Map Width"
+msgstr "Ширина карты"
+
+#: includes/admin/gjm-admin-settings.php:427
+#: includes/admin/gjm-admin-settings.php:499
+#, php-format
+msgid "Map width in pixels or percentage (ex. 100% or 250px)"
+msgstr "Ширина карты в пикселях или в процентах (например, 100% или 250x)"
+
+#: includes/admin/gjm-admin-settings.php:434
+#: includes/admin/gjm-admin-settings.php:506
+msgid "Map height"
+msgstr "высота карты"
+
+#: includes/admin/gjm-admin-settings.php:435
+#: includes/admin/gjm-admin-settings.php:507
+#, php-format
+msgid "Map height in pixels or percentage (ex. 100% or 250px)"
+msgstr "Высота карты в пикселях или в процентах (например, 100% или 250x)"
+
+#: includes/admin/gjm-admin-settings.php:441
+#: includes/admin/gjm-admin-settings.php:513
+msgid "Map Type"
+msgstr "Тип карты"
+
+#: includes/admin/gjm-admin-settings.php:442
+#: includes/admin/gjm-admin-settings.php:514
+msgid "Choose the map type"
+msgstr "Выберите тип карты"
+
+#: includes/admin/gjm-admin-settings.php:445
+#: includes/admin/gjm-admin-settings.php:517
+msgid "ROADMAP"
+msgstr "КАРТА"
+
+#: includes/admin/gjm-admin-settings.php:446
+#: includes/admin/gjm-admin-settings.php:518
+msgid "SATELLITE"
+msgstr "СПУТНИК"
+
+#: includes/admin/gjm-admin-settings.php:447
+#: includes/admin/gjm-admin-settings.php:519
+msgid "HYBRID"
+msgstr "ГИБРИД"
+
+#: includes/admin/gjm-admin-settings.php:448
+#: includes/admin/gjm-admin-settings.php:520
+msgid "TERRAIN"
+msgstr "МЕСТНОСТЬ"
+
+#: includes/admin/gjm-admin-settings.php:454
+msgid "Enable Maps scrollwheel control?"
+msgstr "Использованать ролик мыши для масштабирования карты?"
+
+#: includes/admin/gjm-admin-settings.php:456
+#: includes/admin/gjm-admin-settings.php:528
+msgid "Zoom map in/out using mouse wheel?"
+msgstr "Масштабировать карту колесом мыши?"
+
+#: includes/admin/gjm-admin-settings.php:463
+msgid "Scroll on Marker Click"
+msgstr "Увеличить при клике на маркер"
+
+#: includes/admin/gjm-admin-settings.php:465
+msgid ""
+"On map's marker click, scroll down to the job associate with the marker in the "
+"list of results."
+msgstr "При клике на маркер, отобразить связанную с ним вакансию в перечне."
+
+#: includes/admin/gjm-admin-settings.php:472
+msgid "Display distance"
+msgstr "Отображать расстояния"
+
+#: includes/admin/gjm-admin-settings.php:474
+#, php-format
+msgid "Display the distance to each %s in the list of results"
+msgstr "Отображает расстояние до каждого %s в списке результатов"
+
+#: includes/admin/gjm-admin-settings.php:483
+msgid "Geo Single Page Settings"
+msgstr "GEO настройки страницы"
+
+#: includes/admin/gjm-admin-settings.php:490
+#, php-format
+msgid "Display map showing the %s location in a single %s page"
+msgstr "Показать карту с указанием местонахождения %s в в странице одной %s"
+
+#: includes/admin/gjm-admin-settings.php:526
+msgid "Enable maps scrollwheel control?"
+msgstr "Использованать ролик мыши для масштабирования карты?"
+
+#: includes/gjm-functions.php:18
+msgid "Miles"
+msgstr "Миль"
+
+#: includes/gjm-functions.php:19
+msgid "Kilometers"
+msgstr "Километров"
+
+#: includes/gjm-functions.php:20
+msgid "Within"
+msgstr "Внутри"
+
+#: includes/gjm-functions.php:21
+msgid "Distance"
+msgstr "Расстояние"
+
+#: includes/gjm-functions.php:22
+msgid "Title"
+msgstr "Названиe"
+
+#: includes/gjm-functions.php:23
+msgid "Featured"
+msgstr "Популярность"
+
+#: includes/gjm-functions.php:24
+msgid "Date"
+msgstr "Дата"
+
+#: includes/gjm-functions.php:25
+msgid "Sort by"
+msgstr "Сортировка"
+
+#: includes/gjm-functions.php:26
+msgid "Resize map"
+msgstr "Изменить размер карты"
+
+#: includes/gjm-functions.php:27
+msgid "Company:"
+msgstr "Организация:"
+
+#: includes/gjm-functions.php:28
+msgid "Address:"
+msgstr "Адрес:"
+
+#: includes/gjm-functions.php:29
+msgid "Job Type:"
+msgstr "Тип вакансии:"
+
+#: includes/gjm-functions.php:30
+#, php-format
+msgid "Posted %s ago"
+msgstr "Размещено %s назад"
+
+#: includes/gjm-functions.php:31
+msgid "mi"
+msgstr "миль"
+
+#: includes/gjm-functions.php:32
+msgid "km"
+msgstr "км"
+
+#: includes/gjm-geocode.php:106
+msgid "No location found for the entered address."
+msgstr "Не найдено локаций для введеного адреса."
+
+#: includes/gjm-geocode.php:108
+msgid "Invalid request. Did you enter an address?"
+msgstr "Неправильный запрос. Вы ввели адрес?"
+
+#: includes/gjm-geocode.php:110 includes/gjm-geocode.php:112
+msgid "Something went wrong while retrieving your location."
+msgstr "Не удалось определить текущее положение."
+
+#: includes/gjm-geocode.php:116
+msgid "Unable to contact Google API service."
+msgstr "Нет доступа к службе Google API"
+
+#: updater/geo-my-wp-license-handler.php:78
+msgid "Please deactivate the license key before deactivating the plugin"
+msgstr "Пожалуйста, отключите лицензионный ключ до отключения плагина"
+
+#: updater/geo-my-wp-license-handler.php:170
+#: updater/geo-my-wp-license-handler.php:213
+msgid "License Key:"
+msgstr "Ключ Лицензии:"
+
+#: updater/geo-my-wp-license-handler.php:188
+#: updater/geo-my-wp-license-handler.php:189
+msgid "Deactivate License Key"
+msgstr "Деактивировать Ключ Лицензии"
+
+#: updater/geo-my-wp-license-handler.php:221
+msgid "Enter license key"
+msgstr "Введите ключ лицензии"
+
+#: updater/geo-my-wp-license-handler.php:227
+msgid "Activate License Key"
+msgstr "Активировать Ключ Лицензии"
+
+#: updater/geo-my-wp-license-handler.php:229
+msgid "Activate License"
+msgstr "Активировать Лицензию"
+
+#: updater/geo-my-wp-license-handler.php:271
+msgid ""
+"Please enter your license key and click \"Activate License\". The license key "
+"is required in order to receive automatic updated for the plugin."
+msgstr ""
+
+#: updater/geo-my-wp-license-handler.php:272
+#, php-format
+msgid ""
+"Your license for %s plugin successfully activated. Thank you for your support!"
+msgstr ""
+"Ваша лицензия на плагин %s успешно активирована . Спасибо за вашу поддержку!"
+
+#: updater/geo-my-wp-license-handler.php:273
+#, php-format
+msgid "Your license for %s plugin successfully deactivated."
+msgstr "Ваша лицензия на плагин %s успешно деактивирована ."
+
+#: updater/geo-my-wp-license-handler.php:274
+msgid "License is activated. Thank you for your support!"
+msgstr "Лицензия активирована. Спасибо за поддержку!"
+
+#: updater/geo-my-wp-license-handler.php:275
+msgid "No license key entered. Please enter the license key and try again."
+msgstr ""
+"Лицензионный ключ не введен. Пожалуйста, введите лицензионный ключ и "
+"попробуйте снова."
+
+#: updater/geo-my-wp-license-handler.php:276
+msgid ""
+"Your license has expired. Please renew your license in order to keep getting "
+"its updates and support."
+msgstr ""
+"License has expired . Please renew your license in order to continue to "
+"receive their upgrades and support."
+
+#: updater/geo-my-wp-license-handler.php:277
+#, php-format
+msgid ""
+"Your license has no activations left. Click <a %s>here</a> to manager your "
+"license activations."
+msgstr ""
+
+#: updater/geo-my-wp-license-handler.php:278
+msgid ""
+"Something is wrong with the key you entered. Please verify the key and try "
+"again."
+msgstr "Введен неверный ключ. Проверьте правильность и повторите попытку."
+
+#: updater/geo-my-wp-license-handler.php:279
+#, php-format
+msgid "Lost or forgot your license key? <a %s >Retrieve it here.</a>"
+msgstr ""
+"Потеряли или забыли ваш лицензионный ключ? <a %s >Получить его здесь.</a>"
+
+#: updater/geo-my-wp-license-handler.php:280
+#, php-format
+msgid ""
+"Your license for %s plugin could not be activated. See error message below!"
+msgstr ""
+"Ваша лицензия на плагин %s не может быть активирован . См ниже сообщение об "
+"ошибке!"
+
+#: updater/geo-my-wp-updater.php:180
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox"
+"\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"Существуетновая версия %1$s доступны . <a target=\"_blank\" class=\"thickbox\" "
+"href=\"%2$s\"> Посмотреть версию%3$s детали </a>."
+
+#: updater/geo-my-wp-updater.php:187
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox"
+"\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</"
+"a>."
+msgstr ""
+"Существуетновая версия %1$s доступны . <a target=\"_blank\" class=\"thickbox\" "
+"href=\"%2$s\"> Посмотреть версию%3$s детали </a> или <a href=\"%4$s\">Сейчас</"
+"a>."
+
+#: updater/geo-my-wp-updater.php:327
+msgid "You do not have permission to install plugin updates"
+msgstr "Вы не имеете разрешения для установки плагинов обновления"
+
+#: updater/geo-my-wp-updater.php:327
+msgid "Error"
+msgstr "Ошибка"
+
+#~ msgid ""
+#~ "requires <a %s>WP Job Manager</a> plugin version 1.21.2 or higher in order "
+#~ "to work."
+#~ msgstr ""
+#~ "требуется <a %s=\"\">Работа менеджер WP</a> плагин версии 1.21.2 или выше "
+#~ "для работы."
+
+#~ msgid "Company"
+#~ msgstr "Организация:"
+
+#~ msgid "Address"
+#~ msgstr "Адрес:"
+
+#~ msgid ""
+#~ "requires <a %s>WP Job Manager</a> plugin version 1.15 or higher in order to "
+#~ "work."
+#~ msgstr ""
+#~ "требуется плагин <a %s> WP Менеджера </a> версии 1.15 или выше , чтобы "
+#~ "работать."
+
+#~ msgid "- Miles -"
+#~ msgstr "- Миль -"
+
+#~ msgid "- Kilometers -"
+#~ msgstr "- Километров -"
+
+#~ msgid " -- Within -- "
+#~ msgstr "-- Внутри --"
+
+#~ msgid "Activate the license key in order to receive updates"
+#~ msgstr "Активировать ключ лицензии для установки обновлений"
+
+#~ msgid ""
+#~ "Please enter your license key and click the \"Activate\" button. The "
+#~ "license key is required for automatic updated."
+#~ msgstr ""
+#~ "Пожалуйста, введите лицензионный ключ и нажмите кнопку\"активировать\" . "
+#~ "Лицензионный ключ необходим для автоматического обновления."
+
+#~ msgid ""
+#~ "Your license has no activations left. Click <a href=\"http://geomywp.com/"
+#~ "purchase-history/\" target=\"_blank\" >here</a> to manager your license "
+#~ "activations."
+#~ msgstr ""
+#~ "Ваша лицензия не имеет активации осталось. Нажмите <a href=\"http://geomywp."
+#~ "com/purchase-history/\" target=\"_blank\" > здесь </a> менеджеру вашей "
+#~ "лицензии активаций."
+
+#~ msgid ""
+#~ "Lost or forgot your license key? <a href=\"http://geomywp.com/purchase-"
+#~ "history/\" target=\"_blank\" >Retrieve it here.</a>"
+#~ msgstr ""
+#~ "Потеряли или забыли свой ​​лицензионный ключ ? <a href=\"http://geomywp.com/"
+#~ "purchase-history/\" target=\"_blank\" > Получить его здесь. </a>"
+
+#~ msgid "GEO Job Manager"
+#~ msgstr "GEO Job Manager"
+
+#~ msgid ""
+#~ "WP Job Manager Geolocation requires <a %s>WP Job Manager</a> plugin version "
+#~ "1.15 or higher in order to work."
+#~ msgstr ""
+#~ "WP Job Manager Geolocation требуется плагин <a %s> WP Менеджера </a> версии "
+#~ "1.15 или выше , чтобы работать ."
+
+#~ msgid ""
+#~ "Add the attribute %s_use with the value 2 to the %s shortcode ( ex. %s ). "
+#~ "This way the search form will use the settings on this page in order to add "
+#~ "GEO Job Manager features to the %s search form."
+#~ msgstr ""
+#~ "Добавить атрибут %s_use со значением 2 в %s shortcode ( напр. %s ). Таким "
+#~ "образом,форма поиска будет использовать настройки на этой странице , чтобы "
+#~ "добавить"
+
+#~ msgid "Display map showing the "
+#~ msgstr "Показать карту содержащую"
+
+#~ msgid "Maps's scroll wheel control?"
+#~ msgstr "Использованать ролик мыши для масштабирования карты?"
+
+#~ msgid "Display the distance to each "
+#~ msgstr "Показать расстояние до каждой"
+
+#~ msgid "1) Add the attribute "
+#~ msgstr "1) Добавить значение"
+
+#~ msgid ""
+#~ "This way the search form will use the settings on this page in order to add "
+#~ "GEO Job Manager features to the "
+#~ msgstr ""
+#~ "Таким образом форма для поиска будет использовать настройки на данной "
+#~ "странице для добавление функций GEO Job Manager к"
+
+#~ msgid "2) Add the attribute "
+#~ msgstr "2) Добавить значение"
+
+#~ msgid "This way you can define each of your "
+#~ msgstr "Таким образом вы можете указать каждую из"
+
+#~ msgid ""
+#~ "you will need to do so by using other shotcode attribute that GEO Job "
+#~ "Managers provides:"
+#~ msgstr "вы можете это осуществить добавлением других аттрибутов GEO к кодам:"
+
+#~ msgid ""
+#~ "Disply suggested results by Google when typing an address in the location "
+#~ "field of the "
+#~ msgstr "Показать результаты Goolge при вводе адреса"
+
+#~ msgid ""
+#~ "Using the GEO features is as simple as adding an attribute to the already "
+#~ "exists"
+#~ msgstr ""
+#~ "Добавление возможностей GEO осуществляется простым добавлением аттррибутов "
+#~ "к уже используемым кодам"
+
+#~ msgid "shortcode. There are two ways you can use the shortcode:"
+#~ msgstr "shortcode. Два варинта использования кодов:"
+
+#~ msgid ""
+#~ "This feature controls the regions of Goole API. Enter a country code. For "
+#~ "example for United States enter US. you can find your country code "
+#~ msgstr ""
+#~ "Это поле указывает на регион Google API. Введите код страны. Например, для "
+#~ "России введите RU. Узнать код страны вы можете здесь"
+
+#~ msgid ""
+#~ "Disply suggested results by Google when typing an address in the location "
+#~ "field of the new/edit "
+#~ msgstr ""
+#~ "Показать результаты Goolge при вводе адреса при создании/редактировании"
+
+#~ msgid "Import "
+#~ msgstr "Импорт"
+
+#~ msgid "Add GeoLocation features to WP Job Manager plugin."
+#~ msgstr "Добавить возможности геолокации в плагин WP Job Manager"
+
+#~ msgid ""
+#~ "WP Job Manager Geolocation requires <a href=\"http://wordpress.org/plugins/"
+#~ "wp-job-manager/\" target=\"_blank\">WP Job Manager</a> plugin version 1.13 "
+#~ "or higher in order to work."
+#~ msgstr ""
+#~ "WP Job Manager Geolocation требует установки <a href=\"http://wordpress.org/"
+#~ "plugins/wp-job-manager/\" target=\"_blank\">WP Job Manager</a> плагина "
+#~ "версии 1.13 или выше для работы."
+
+#~ msgid ""
+#~ "GEO Job Manager requires <a href=\"http://wordpress.org/plugins/wp-job-"
+#~ "manager/\" target=\"_blank\">WP Job Manager</a> plugin version 1.13 or "
+#~ "higher in order to work."
+#~ msgstr ""
+#~ "GEO Job Manager требует установки <a href=\"http://wordpress.org/plugins/wp-"
+#~ "job-manager/\" target=\"_blank\">WP Job Manager</a> плагина версии 1.13 или "
+#~ "выше для работы."

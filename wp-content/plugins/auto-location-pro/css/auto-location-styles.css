@@ -1,0 +1,48 @@
+/* All Styles using the !important attribute is user to overwrite the inline styles placed by javascript */
+.pac-container {
+	box-shadow: none !important;
+	overflow: visible !important;
+}
+
+.pac-item {
+	box-shadow: none !important;
+	font-size: 1em !important;
+	cursor: pointer !important;
+	width: 100.2% !important;
+	height: auto !important;
+	white-space: nowrap !important;
+	overflow: hidden !important;
+	margin: 0 !important;
+	display: block !important;
+	width: 100% !important
+}
+
+.pac-item:hover .pac-icon-marker {
+	background-position: 16px -161px !important;
+}
+
+.pac-item.pac-item-selected .pac-icon-marker {
+	background-position: -1px -161px !important;
+}
+
+.pac-item:first-of-type {
+	border-bottom: none !important;
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+}
+
+.pac-item:last-of-type {
+	border-top: none !important;
+	border-top-left-radius: 0 !important;
+	border-top-right-radius: 0 !important;
+}
+
+.pac-item:not(:last-of-type):not(:first-of-type) {
+	border-top: none !important;
+	border-bottom: none !important;
+	border-radius: 0 !important;
+}
+
+.pac-container:after {
+	display: none !important;
+}

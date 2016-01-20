@@ -1,0 +1,262 @@
+/* GJM stylesheet */
+div.gjm-map img {
+	max-width: initial !important;
+}
+
+.gjm-map-wrapper div.gjm-expand-map-trigger.dashicons-editor-expand,
+.gjm-gmap-wrapper div.gjm-gmap-expand-map-trigger.dashicons-editor-expand {
+	background: white;
+	cursor:pointer;
+	content: "\f211";
+	color:rgba(27, 52, 70, 0.66);
+	font-size: 19px;
+	height:19px;
+	width:20px;
+	padding: 0px;
+	border: 1px solid rgba(0, 0, 0, 0.14902);
+	-webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+	box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	margin-top:5px;
+	display:none;
+}
+
+.gjm-map-wrapper div.gjm-expand-map-trigger.dashicons-editor-contract,
+.gjm-gmap-wrapper div.gjm-gmap-expand-map-trigger.dashicons-editor-contract {
+	top: 5px !important; 
+	background: white;
+	cursor:pointer;
+	content: "\f211";
+	color:rgba(27, 52, 70, 0.66);
+	font-size: 20px;
+	height:20px;
+	width:22px;	
+	border: 1px solid rgba(0, 0, 0, 0.14902);
+	-webkit-box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+	box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+}
+
+div.gjm-expanded-map,
+div.gjm-gmap-expanded-map {
+	position:fixed;
+	z-index:9999999;
+	width:100% !important;
+	height:100% !important;
+	left:0px;
+	top:0px;
+}
+
+.job_filters div.search_jobs div.gjm-map-wrapper {
+	background: #eee;
+}
+
+.job_filters div.search_jobs div.gjm-dropdown-wrapper {
+	margin-top: .5em;
+}
+
+.job_filters div.search_jobs div.gjm-radius-wrapper {
+	float: left;
+	padding-right: 10px;
+}
+
+.job_filters div.search_jobs div.gjm-units-wrapper {
+	float: left;
+	padding-left: 10px;
+}
+
+.job_filters div.search_jobs div.gjm-orderby-wrapper {
+	float: right;
+	padding-left: 10px;
+}
+
+.job_filters div.search_jobs div.gjm-locator-button-wrapper {
+	width: 100%;
+	margin-top: .5em;
+	display: inline-block;
+	clear: both;
+}
+
+.job_filters div.search_jobs div.gjm-locator-button-wrapper .gjm-locator-button {
+	width: 100%;
+	color: #555;
+}
+
+.job_filters div.search_jobs div.gjm-locator-button-wrapper img.gjm-locator-loader {
+	margin: 0 46%;
+	margin-top: 5px;
+	display: none;
+	width: 30px;
+	height: auto;
+}
+
+.job_filters div.search_jobs div.gjm-filters-count-1 {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0;
+}
+
+.job_filters div.search_jobs div.gjm-filters-count-2 {
+	width: 50%;
+	max-width: 50%;
+	margin-right: 0px;
+}
+
+.job_filters div.search_jobs div.gjm-filters-count-3 {
+	width: 33.3%;
+	max-width: 33.3%;
+	margin-right: 0px;
+}
+
+ul.job_listings span.gjm-distance-wrapper, span.gjm-distance-wrapper {
+	background: #f9f9f9;
+	padding: 1px 3px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	margin-left: 10px;
+	font-size: 11px;
+	display: inline-block;
+	line-height: 15px
+}
+
+.gjm-marker-clicked {
+	background: #f9f9f9;
+	box-shadow: 0px 0px 6px #ddd
+}
+
+div.gjm-single-map-wrapper {
+	display: inline-block;
+	border:5px solid #eee;
+	box-sizing: border-box;
+	margin-top: 5px;
+}
+
+/* Info Window */
+
+div.gjm-info-window-wrapper {
+	min-width:150px;
+	min-height:100px;
+}
+
+div.gjm-info-window-wrapper h3.title {
+	margin:0px;
+	font-size: 14px;
+	margin-bottom:3px;
+}
+
+div.gjm-info-window-wrapper span.distance {
+	position: absolute;
+	right: 0;
+	top:-2px;
+	font-size: 11px;
+}
+
+div.gjm-info-window-wrapper ul.job-items {
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+
+div.gjm-info-window-wrapper ul.job-items li {
+	padding:0px;
+	margin:0px;
+	list-style:none;
+	font-size:12px;	
+	line-height:18px;
+}
+
+div.gjm-info-window-wrapper ul.job-items li span.label {
+	margin-right:3px;
+	font-weight:400;
+}
+
+
+/* jobify theme */
+.wp-job-manager-categories .job_filters div.search_jobs div.gjm-dropdown-wrapper,
+.wp-job-manager-categories .job_filters div.search_jobs div.gjm-locator-button-wrapper {
+	padding-left:15px;
+	padding-right:15px;
+	margin-top:0px;
+	margin-bottom:15px;
+}
+
+.wp-job-manager-categories .job_filters div.gjm-filters-count-2,
+.wp-job-manager-categories .job_filters div.gjm-filters-count-1 {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+
+body.jobify .job_filters div.search_jobs div.gjm-filters-count-2 {
+	width:48.5%;
+}
+
+body.jobify ul.job_listings span.gjm-distance-wrapper {
+	font: 700 12px/normal Montserrat,sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	padding: 3px 10px;
+	border-radius: 4px;
+	background: #01da90;
+	border:0;
+}
+
+/* listify theme */
+body.listify .job_filters div.search_jobs div.gjm-dropdown-wrapper,
+body.listify .job_filters div.search_jobs div.gjm-locator-button-wrapper {
+	margin-top: .5em;
+	margin-bottom: .3em
+}
+
+body.listify .job_filters div.search_jobs div.gjm-locator-button-wrapper .gjm-locator-button {
+	color: white;
+	padding:14px;
+}
+
+body.listify .job_filters div.gjm-filters-count-2,
+body.listify .job_filters div.gjm-filters-count-1,
+body.listify .job_filters div.gjm-filters-count-3 {
+	padding: 0px !important;
+}
+
+body.listify .job_filters div.gjm-filters-count-1 {
+	width:100%;
+}
+
+body.listify .job_filters div.gjm-filters-count-2 {
+	width:48.5%;
+}
+
+body.listify .job_filters div.gjm-filters-count-3 {
+	width:31.25%
+}
+
+body.listify div.gjm-radius-wrapper.gjm-filters-count-3.gjm-dropdown-wrapper {
+	margin-right: 3%;
+}
+
+body.listify ul.job_listings span.gjm-distance-wrapper {
+	background-color:#72bb46;
+	color: white;
+	padding: 4px 5px;
+}
+
+@media (max-width:800px) {
+	
+	.search_jobs input[type=submit] {
+		margin-bottom:0px;
+	}
+	
+	.job_filters div.search_jobs div.gjm-locator-button-wrapper,
+	.job_filters div.search_jobs div.gjm-dropdown-wrapper {
+		width:100%;
+		clear: both;
+		max-width:initial;
+		margin-top: .5em;
+		padding:0px;
+	}
+	
+}

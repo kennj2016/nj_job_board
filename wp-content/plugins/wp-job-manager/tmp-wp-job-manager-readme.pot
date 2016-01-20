@@ -1,0 +1,1762 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "WP Job Manager"
+msgstr ""
+
+#. Short description.
+msgid "Manage job listings from the WordPress admin panel, and allow users to post job listings directly to your site."
+msgstr ""
+
+#. Screenshot description.
+msgid "The submit job form."
+msgstr ""
+
+#. Screenshot description.
+msgid "Submit job preview."
+msgstr ""
+
+#. Screenshot description.
+msgid "A single job listing."
+msgstr ""
+
+#. Screenshot description.
+msgid "Job dashboard."
+msgstr ""
+
+#. Screenshot description.
+msgid "Job listings and filters."
+msgstr ""
+
+#. Screenshot description.
+msgid "Job listings in admin."
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Documentation"
+msgstr ""
+
+#. Found in description header.
+msgid "Add-ons"
+msgstr ""
+
+#. Found in description header.
+msgid "Contributing and reporting bugs"
+msgstr ""
+
+#. Found in description header.
+msgid "Support"
+msgstr ""
+
+#. Found in description list item.
+msgid "Add, manage, and categorize job listings using the familiar WordPress UI."
+msgstr ""
+
+#. Found in description list item.
+msgid "Searchable &amp; filterable ajax powered job listings added to your pages via shortcodes."
+msgstr ""
+
+#. Found in description list item.
+msgid "Frontend forms for guests and registered users to submit &amp; manage job listings."
+msgstr ""
+
+#. Found in description list item.
+msgid "Allow job listers to preview their listing before it goes live. The preview matches the appearance of a live job listing."
+msgstr ""
+
+#. Found in description list item.
+msgid "Each listing can be tied to an email or website address so that job seekers can apply to the jobs."
+msgstr ""
+
+#. Found in description list item.
+msgid "Searches also display RSS links to allow job seekers to be alerted to new jobs matching their search."
+msgstr ""
+
+#. Found in description list item.
+msgid "Allow logged in employers to view, edit, mark filled, or delete their active job listings."
+msgstr ""
+
+#. Found in description list item.
+msgid "Developer friendly code — Custom Post Types, endpoints &amp; template files."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WP Job Manager is a <strong>lightweight</strong> job listing plugin for adding job-board like functionality to your WordPress site. Being shortcode based, it can work with any theme (given a bit of CSS styling) and is really simple to setup."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The plugin comes with several shortcodes to output jobs in various formats, and since its built with Custom Post Types you are free to extend it further through themes."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://wpjobmanager.com/\">Read more about WP Job Manager</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Documentation for the core plugin and add-ons can be found <a href=\"https://wpjobmanager.com/documentation/\">on the docs site here</a>. Please take a look before requesting support because it covers all frequently asked questions!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The core WP Job Manager plugin is free and always will be. It covers all functionality we consider 'core' to running a simple job board site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Additional, advanced functionality is available through add-ons. Not only do these extend the usefulness of the core plugin, they also help fund the development and support of core."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can browse available add-ons after installing the plugin by going to <code>Job Listings &gt; Add-ons</code>. Our popular add-ons include:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong><a href=\"https://wpjobmanager.com/add-ons/applications/\">Applications</a></strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Allow candidates to apply to jobs using a form &amp; employers to view and manage the applications from their job dashboard."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong><a href=\"https://wpjobmanager.com/add-ons/wc-paid-listings/\">WooCommerce Paid Listings</a></strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Paid listing functionality powered by WooCommerce. Create custom job packages which can be purchased or redeemed during job submission. Requires the WooCommerce plugin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong><a href=\"https://wpjobmanager.com/add-ons/resume-manager/\">Resume Manager</a></strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Resume Manager is a plugin built on top of WP Job Manager which adds a resume submission form to your site and resume listings, all manageable from WordPress admin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong><a href=\"https://wpjobmanager.com/add-ons/job-alerts/\">Job Alerts</a></strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Allow registered users to save their job searches and create alerts which send new jobs via email daily, weekly or fortnightly."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong><a href=\"https://wpjobmanager.com/add-ons/bundle/\">Core add-on bundle</a></strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can get the above add-ons and several others at discount with our <a href=\"https://wpjobmanager.com/add-ons/bundle/\">Core Add-on Bundle</a>. Take a look!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can contribute code to this plugin via GitHub: <a href=\"https://github.com/mikejolley/wp-job-manager\">https://github.com/mikejolley/wp-job-manager</a> and localizations via <a href=\"https://translate.wordpress.org/projects/wp-plugins/wp-job-manager\">https://translate.wordpress.org/projects/wp-plugins/wp-job-manager</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Thanks to all of our contributors."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Use the WordPress.org forums for community support where we try to help all users. If you spot a bug, you can log it (or fix it) on <a href=\"https://github.com/mikejolley/wp-job-manager\">Github</a> where we can act upon them more efficiently."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you need help with one of our add-ons, <a href=\"https://wpjobmanager.com/support/\">please raise a ticket in our help desk</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you want help with a customisation, please consider hiring a developer! <a href=\"http://jobs.wordpress.net/\">http://jobs.wordpress.net/</a> is a good place to start."
+msgstr ""
+
+#. Found in installation header.
+msgid "Automatic installation"
+msgstr ""
+
+#. Found in installation header.
+msgid "Manual installation"
+msgstr ""
+
+#. Found in installation header.
+msgid "Getting started"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin file to your computer and unzip it"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Using an FTP program, or your hosting control panel, upload the unzipped plugin folder to your WordPress installation's <code>wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin from the Plugins menu within the WordPress admin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create a page called \"jobs\" and inside place the <code>[jobs]</code> shortcode. This will list your jobs."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create a page called \"submit job\" and inside place the <code>[submit_job_form]</code> shortcode if you want front-end submissions."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Create a page called \"job dashboard\" and inside place the <code>[job_dashboard]</code> shortcode for logged in users to manage their listings."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't even need to leave your web browser. To do an automatic install, log in to your WordPress admin panel, navigate to the Plugins menu and click Add New."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In the search field type \"WP Job Manager\" and click Search Plugins. Once you've found the plugin you can view details about it such as the the point release, rating and description. Most importantly of course, you can install it by clicking <em>Install Now</em>."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "The manual installation method involves downloading the plugin and uploading it to your web server via your favorite FTP application."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Once installed:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Note when using shortcodes</strong>, if the content looks blown up/spaced out/poorly styled, edit your page and above the visual editor click on the 'text' tab. Then remove any 'pre' or 'code' tags wrapping your shortcode."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "For more information, <a href=\"https://wpjobmanager.com/documentation/\">read the documentation</a>."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Conflict between the_job_location() and the regions plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow some HTML in the_job_location - uses wp_kses_post."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Transient clear query."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - New user notification pluggable function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use subquery in keyword search to avoid long queries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Only search for keywords of 2 or more characters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - job_manager_get_listings_keyword_length_threshold filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - PolyLang compatibility functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Unattach company logo when a new attachment is uploaded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Author check in job_manager_user_can_edit_job()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Before deleting a job, delete its attachments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Show previews in backend if needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Handle WP 4.3 signup notification."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Map mime types to those that WordPress knows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Alert text color."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Searches containing special chars."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improved uploader error handling and updated library."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improve job_manager_user_can_post_job and job_manager_user_can_edit_job capability handling in job-submit.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Clear transients in batches of 500."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Removed transifex and translations - translation will take place on https://translate.wordpress.org/projects/wp-plugins/wp-job-manager"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed editing content with wp_editor. Can no longer be passed to function already escaped."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Security: XSS issue in account signin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update new account email text."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - 4.3 issue showing \"Description is a required field\" due to editor field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Default job_manager_delete_expired_jobs to false. Set to true to have expired jobs deleted automatically. More sensible default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - job_manager_term_select_field_wp_dropdown_categories_args filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Ajax WPML handling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - job_manager_ajax_filters -&gt; job_manager_ajax_file_upload in file upload script."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Allow [job_summary] to output multiple listings via 'limit' parameter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Added flowplayer support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Special chars in feeds."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Permalinks with index.php inside."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Notice when saving job form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - PHP4 widget constructors (https://gist.github.com/chriscct7/d7d077afb01011b1839d)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow translation of job_manager_dropdown_categories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added handling for .job-manager-filter class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added trailing slashes to ajax endpoints."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Made videos responsive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - job_manager_attach_uploaded_files filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - In 1.21.0 we switched to GET ajax requests to leverage caching, however, due to the length of some queries this was causing 414 request URI too long errors in many environments. Reverted to POST to avoid this."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - flush_rewrite_rules after updates to ensure ajax endpoint exists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use relative path for ajax endpoint to work around https/http."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - WPML integration with lang."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improved plugin activation code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improved theme switch code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Search the entire meta field, not just from the start."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added some debugging code to ajax-filters to display in console."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Send entire form data (listify workaround)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Set is_home false on ajax endpoint (listify workaround)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Orderby featured should be \"menu order, date\", not \"manu order, title\"."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove duplicate data from form_data in filters JS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - If index is -1 in filters JS, abort."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Custom AJAX endpoints to reduce overhead of loading admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Support radio fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Video max width."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Admin remove overflow hidden from data box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Update notice styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improve orderby. https://make.wordpress.org/core/2014/08/29/a-more-powerful-order-by-in-wordpress-4-0/"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - nofollow apply links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Rename 'title' to 'job title' for clarity."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - submit_job_form_prefix_post_name_with_company filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - submit_job_form_prefix_post_name_with_location filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - submit_job_form_prefix_post_name_with_job_type filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improved job_feed searching."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improved transient cleaning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix frontend listing edits."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Set form actions to current page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Video embeds."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Load textdomain before post types are registered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - It's 2015, but some people are still running PHP 5.2. Compatibility fix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Refactored form classes to be instance based rather than static. Reduction in code base."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Admin styling of the job data panels."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Admin styling of the status column."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Better handling of the expiry field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Search _geolocation_state_long."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Allow admin fields to have custom 'name'."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use wp_video_shortcode instead of oembed directly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Tweak menu order code for featured jobs - use -1 for featured and leave other jobs alone."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Clear expired date when publishing an expired listing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - clear_expired_transients function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Prevent term-checklist being disabled for guests."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add WPML var to transient name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Remove use of create_function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - get_job_listings_keyword_search keyword search."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Clear term cache when terms are set for any object."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Legacy uploads."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - RTL improvements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use RLIKE to search keywords in content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Show relative pagination."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated translations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Arabic translation by Mamdouh Samy."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Support posts_per_page in feed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Correctly set menu_order when creating a new job, or updating featured status."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Updater when there are no featured jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add geolocation_street_number to clear_location_data."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Remove requried attribute from file input."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Remove file type check when field is not required and empty."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Hide \"Applications have closed\" for previews."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ajax loading history - back button will take you back to current position in the search. If you are on &gt; page 1, a 'load previous' button will be shown so you can paginate either way."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Ajax file upload during job submission."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Cookie set when submitting a job to allow resuming if you leave the page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - job_apply shortcode to show application area in other places on your site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Allow admin fields to be priority sorted."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Featured job widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Scroll to top on pagination click."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to \"Hide content within expired listings\". If disabled, expired listings will be listed normally with applications disabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Prevent attachments being uploaded several times."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Expiry date on first save."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Relist should go back to form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - jquery.com CDN for CSS."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Geocode street and street number separately."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - File upload field markup."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added filters around taxonomy definition."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Chanced search logic/query to use the new meta queries in 4.1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Implement transient caching for searches."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Removed wp_dropdown_user due to performance concerns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Use menu_order to make featured listings sticky. Improves performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Retrieve AJAX jobs with GET rather than POST request to take advantage of more caching. Plugins looking for POST data will need to update to look for GET/REQUEST instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Prevent themes that (sigh) mess with content hooks from breaking inputs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Remove unused job-category field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Hide company div if company name missing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Core template overrides."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated localisations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Sortable location column in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Automatically Generate Username from Email Address option (disable to show a username field)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - 'filled' option for job shortcode to show all filled/non filled jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Pagination with default permalinks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Correctly generate geolocation data when adding a post manually."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Chosen width when resizing the page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Show no jobs when all types de-selected."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - content-widget-no-jobs-found.php template file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Don't limit keyword search query functions to published jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - job_manager_output_jobs_no_results action."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - No results template hooked into job_manager_output_jobs_no_results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Changed content-no-jobs-found.php content to work for ajax and static lists of jobs. Tweaked text."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - job_manager_default_company_logo filter for changing default company image."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Enhance multiselect field with chosen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Abiltiy to pass shortcode args to submit_job_form shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Made get_job_manager_template_part() use locate_job_manager_template()."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Changed how username/email/role are passed to wp_job_manager_create_account (backwards compat)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Added html5 required attribute to required fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Added compatibility with RP4WP."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Chosen RTL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Addded additonal check to check edit capabilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Add correct step input to submission form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add CSS class to 'showing' bar when shoing all results (no filters)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Geocode, use sublocality_level_1 as city."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Don't update slug when editing via the frontend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Set default meta data for new jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add geolocation data after import with WP ALL Import."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Filter to disable chosen: job_manager_chosen_enabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Login link on job dashboard. job-dashboard-login.php template file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Made backend management honour capabilities of users. Props to minderdl."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Keep post name when pending job is posted by non-admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Prevent special chars breaking the feeds."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added new capabilities for all aspects of Job Listing Management. e.g. edit_job_listings, add_job_listing etc etc. Admin role will be updated on activation/upgrade. If you use custom roles, you'll need to edit them to grant access to the parts you wish."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Improved uninstaller."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Clear location data should include geolocation_postcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Always show 'showing' bar, but conditonally show 'reset' link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Trigger geolocation whenever location field is saved, even by 3rd parties."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - job_manager_user_can_edit_pending_submissions function and setting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Job summary shortcode - support random display of job (featured or non featured)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - In admin, when clicking an author name show all jobs for that author."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added sanitization function to form class to handle strings and arrays."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Use triggerHandler() instead of trigger() in ajax-filters to prevent events bubbling up."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Append current 'lang' to AJAX calls for WPML."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - When specifying categories on the jobs shortcode, don't clear those categories on reset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added job_manager_admin_screen_ids filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added setup wizard for new installs that creates pages/shortcodes automatically."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added job_manager_get_permalink function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Only show website link when actually set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Only validate application when field is set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added description to all fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Added better setting fields for defining which pages contain the shortcodes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Nofollow website links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Removed font-sizes from default CSS and fixed display in default WP themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added location/keyword option to recent jobs widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added job-listings-start and job-listings-end.php templates for customisation the wrapping elements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added filter type option for job categories. Can be set to require matching to any or all selected categories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added checkbox field type for forms."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made backend application email field default to logged in user."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - job_manager_get_resized_image to not error when it cannot read the image file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Make admin_url relative."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Chosen CSS cutting off the placeholder in Firefox."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Added _company_video in backend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Extra filters for the filters template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed text strings for easier customisations based on post type labels, and made some strings more generic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New field types - term-checklist, term-multiselect, term-select. These save terms only."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added chosen javascript to enhance multiselect boxes when needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Multiple category support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Attach Images on Upload to the job posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an option to show a multiselect for categories on the job filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enabled chosen() for the job category filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added content-single-job_listing-company.php and content-single-job_listing-meta.php templates. These are hooked in."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added optional company video field to submission form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Video appended to company information box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "the_company_video() and get_the_company_video() functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "show_more=\"false\" for jobs shortcode to prevent loading more jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "job_manager_delete_expired_jobs filter (__return_false to disable expired job deletion)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "job_manager_delete_expired_jobs_days filter (set number of days before deletion - default is 30)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support HTML5 multiple attribute for file upload field. Pass multiple=&gt;'true' to form field definition to enable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Later loading for template functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Shortcode arg to show numbered pagination instead of 'load more jobs'. show_pagination argument."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Define support for Jetpack publicize."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Show company name alt text for company logo."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sort jobs by title, date, expirey date."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added noscript element for jobs shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "filter_var to validate URLs on the job submission form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Job submission form categories must not hide empty categories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "On the job submission form, display hierarchical categories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use job_manager_ prefixed hooks for registration (register_post/registration_errors/register_form) to prevent issues with Captcha plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pass $post to job_manager_application_email_subject"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additonal hooks in job-filters template, and moved out job types output to separate template file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to set the job dashboard page slug so plugins know where to look."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow you@yourdomain.com to be translated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Make taxonomies hidden unless current_theme_supports( 'job-manager-templates' )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adjusted job application area styling and added some additonal filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve backend order status selection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added some responsive styles for job lists."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow users to relist a job from the frontend. (Ensure WC Paid Listings and Simple Paid Listings are updated to support this)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix ajax filters 'true' for show_filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix geocoding for certain address strings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix keywords typo"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove deprecated $wpdb-&gt;escape calls. Replaced with esc_sql"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Switch geocode to json and improve error checking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If query limit is reached, stop making requests for a while."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added extra data inside job_feed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Few extra icons in font."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additonal hooks in single template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pick up search_category from querystring to set default/selected category."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ability to define selected_job_types for the jobs shortcode which will set the default job type filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Took out show_featured_only arg for the [jobs] shortcode and added 'featured' which can be set to true or false to show or hide featured jobs, or left null to show both."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed nonce from frontend job submission form to prevent issues with caching."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Trigger change on 'enter' when filtering jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated add-ons page to pull from wpjobmanager.com."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed support for custom upload URLs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Choose/limit application method to email, url or either."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Default application value (if logged in) set to user's email address."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "show_featured_only option for [jobs] shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add required-field class around required inputs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enable paste as text in wp-editor field."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix email URLs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Target blank for application URLs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add posted by (author) setting in backend."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When saving jobs, ensure _featured and _filled are set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Load admin scripts conditionally."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix missing parameter in application_details_url causing URLs to be missing when applying."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed resource heavy 'default_meta' function from the installation process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Template - Split off URL and email application methods and added new hooks. This allows other plugins to manipulate the content."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pass $values to edit job save function so permalinks are preserved."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When showing filters, ensure we check by slug if category is non-numeric."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Give listings ul a min height so that loading image is visible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "content-no-jobs-found.php template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix apostrophe direction in signin template."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bulk expire jobs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "submit_job_form_required_label hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ability to set default state for selects on submit form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "allow passed in classes in get_job_listing_class function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hook in the content only if in_the_loop(). Fixes issues with jobify and yoast SEO."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed .clear mixin to prevent theme conflicts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "For initial load, target all .job_filters areas. Jobify compat."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Corrected check to see if any category terms with jobs exist"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Take search/location vars from the querystring if set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Option to choose role for registration, and added an 'employer' role."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature - Support for comma separated keywords when searching"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Use add_post_meta when editing a job to maintain featured status"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - category ordering"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - searching for keyword + location at the same time"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Only show categories select box when they exist"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - job_manager_application_email_subject filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some changes to file uploads to support custom mime types"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated icon file (http://fontello.com/)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix category rss links"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When doing a location search, search geolocation data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix notices when removing all company fields"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made jslint happy with ajax-filters.js"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use get_option( 'default_role' ) when creating a user"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Grunt for release"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preserve line breaks when saving textarea fields in admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hide 'showing all x' when no filters are chosen."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Register 'preview' status so that the counts are correct."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Delete previews via cron job."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated textdomain to wp-job-manager"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-done .pot file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Additonal filters for ajax responses"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved localisations to Transifex https://www.transifex.com/projects/p/wp-job-manager/"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added geolocation to save location data to meta after posting or saving a job. This will be used by other plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Filter job_manager_geolocation_enabled and return false to turn off geolocation features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Jobs shortcode can now be passed 'location' and 'keywords' to set the default for filters, or show only jobs with those keywords if filters are disabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Html fix in widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add border around wp editor"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix company logo in firefox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "submit_job_form_wp_editor_args filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "\"Empty\" categories are visible when filtering jobs in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "MP6/WP 3.8 optimised styling. Min version 3.8 for new styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed images previously used in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak the_company_logo() to check if logo is valid URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced Genericons with custom set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Only show link to view job on dashboard when published"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix wp-editor field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix editing job images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed get_the_time to get_post_time"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added textarea and wp-editor to form api"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When using the job submit form, generate a more unqiue slug for the job - company-location-type-job-title"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ability to remove image from job submission form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update icon font"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix job_types filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Field_select in admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix access control on job editing"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Job forms multiselect support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ability to edit job expiration date manually via admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings API: Password field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Frontend Forms: Password field"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Correctly turn off expiration when 'days' is not set"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Greek should be el_GR"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings: Use key for tabs - fixes issues with locales"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Show pending count in admin menu"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added job_types argument to jobs shortcode to show jobs of a certain type only"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hierarchical dropdown for categories on filter form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "job_manager_job_submitted hook in submission form"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added pagination to the job dashboard to avoid memory issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Schema.org markup for job listings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Greek translation by Ioannis Arsenis"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remove line breaks from markup to prevent theme issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "When using the [jobs] shortcode without filters, if jobs &gt; per-page show the 'load more' link"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clearfix for meta div"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hooked up $size option for company logos"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "submit_job_form_save_job_data filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Italian translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Brazillian Portuguese translation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Respect other plugin columns in admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-arranged admin columns to show less non-useful data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for featured job listings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for meta job duration"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "set_expirey when publishing jobs from admin manually"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update handler"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Corrected form field label"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added french translation by Remi Corson"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "job_manager_get_dashboard_jobs_args filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better handling of submit job steps."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Option to store the slug of the submit job page - used by addons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use :input in JS to support multiple input types if customised."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved accuracy of job search"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed category filter dropdown in admin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweaked css clearfixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use built in antispambot for encoding email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "job_manager_job_filters_showing_jobs_links filter"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IE8 Apply filters JS fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix spanish locale"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed strict standards errors"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve 2013 Styles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Addons page. Disabled usings add_filter( 'job_manager_show_addons_page', '__return_false' );"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added function to get listings by certain criteria."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ES translation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix job feed when no args are present."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More hooks in the submit process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hide apply button if url/email is unset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Some extra hooks in job-filters.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a workaround for scripts which bork placeholders inside the job filters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Action in update_job_data() to allow saving of extra fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added German translation by Chris Penning"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Slight tweak to listing field filters in admin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "'attributes' argument for admin settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "First stable release."
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I setup WP Job Manager?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I use WP Job Manager without frontend job submission?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I customize the job application process?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I customize the job submission form?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How can I be notified of new jobs via email?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What language files are available?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "For simple text changes, using a localisation file or a plugin such as https://wordpress.org/plugins/say-what/"
+msgstr ""
+
+#. Found in faq list item.
+msgid "For field changes, or adding new fields, using functions/filters inside your theme's functions.php file: <a href=\"https://wpjobmanager.com/document/editing-job-submission-fields/\">https://wpjobmanager.com/document/editing-job-submission-fields/</a>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Use a 3rd party plugin such as <a href=\"https://plugins.smyl.es/wp-job-manager-field-editor/?in=1\">https://plugins.smyl.es/wp-job-manager-field-editor/</a> which has a UI for field editing."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "View the getting <a href=\"https://wpjobmanager.com/document/installation/\">installation</a> and <a href=\"https://wpjobmanager.com/document/setting-up-wp-job-manager/\">setup</a> guide for advice getting started with the plugin. In most cases it's just a case of adding some shortcodes to your pages!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes! If you don't setup the [submit_job_form] shortcode, you can just post from the admin backend."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are several ways to customise the job application process in WP Job Manager, including using some extra plugins (some are free on Wordpress.org)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "See: <a href=\"https://wpjobmanager.com/document/customising-job-application-process/\">Customising the Job Application Process</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are three ways to customise the fields in WP Job Manager;"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you'd like to learn about WordPress filters, here is a great place to start: <a href=\"https://pippinsplugins.com/a-quick-introduction-to-using-filters/\">https://pippinsplugins.com/a-quick-introduction-to-using-filters/</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you wish to be notified of new postings on your site you can use a plugin such as <a href=\"http://wordpress.org/plugins/post-status-notifier-lite/\">Post Status Notifier</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can view (and contribute) translations via the <a href=\"https://translate.wordpress.org/projects/wp-plugins/wp-job-manager\">translate.wordpress.org</a>."
+msgstr ""
